@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "250100493753",
+    "firebase_url": "https://test-42376.firebaseio.com",
+    "project_id": "test-42376",
+    "storage_bucket": "test-42376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250100493753:android:de717f1785e2f950875a68",
+        "android_client_info": {
+          "package_name": "com.baseappreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250100493753-1c41jk2p5evmono0buvm2qoma21gp11i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLrTNoCqWiQhW9HBErSD4W9FeC38EG2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250100493753-1c41jk2p5evmono0buvm2qoma21gp11i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250100493753-ao7fen5gv97stq2me2u2cba65ilknr7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.DemoCall"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250100493753:android:c368eaaad0092016875a68",
+        "android_client_info": {
+          "package_name": "com.google.cloud.examples.dialogflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250100493753-1c41jk2p5evmono0buvm2qoma21gp11i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLrTNoCqWiQhW9HBErSD4W9FeC38EG2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250100493753-1c41jk2p5evmono0buvm2qoma21gp11i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250100493753-ao7fen5gv97stq2me2u2cba65ilknr7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.DemoCall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
